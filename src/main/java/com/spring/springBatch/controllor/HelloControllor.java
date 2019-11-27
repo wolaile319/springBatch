@@ -22,7 +22,7 @@ public class HelloControllor {
 
     @GetMapping("/hello")
     public String helloWorld(){
-        return  "我爱你!!！！！";
+        return  "我爱你111!!！！！";
     }
 
     @GetMapping("/sendJob/{msg}")
