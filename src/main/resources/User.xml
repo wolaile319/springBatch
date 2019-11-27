@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>张三</name>
+        <sex>男</sex>
+        <birthday>2011-11-11</birthday>
+    </user>
+    <user>
+        <id>2</id>
+        <name>李四</name>
+        <sex>男</sex>
+        <birthday>2011-11-11</birthday>
+    </user>
+    <user>
+        <id>3</id>
+        <name>王五</name>
+        <sex>男</sex>
+        <birthday>2011-11-11</birthday>
+    </user>
+    <user>
+        <id>4</id>
+        <name>赵柳</name>
+        <sex>男</sex>
+        <birthday>2011-11-11</birthday>
+    </user>
+    <user>
+        <id>5</id>
+        <name>五百</name>
+        <sex>男</sex>
+        <birthday>2011-11-11</birthday>
+    </user>
+    <user>
+        <id>6</id>
+        <name>琪琪</name>
+        <sex>男</sex>
+        <birthday>2011-11-11</birthday>
+    </user>
+</users>
